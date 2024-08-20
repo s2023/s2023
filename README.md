@@ -2,7 +2,7 @@ Hi, I'm Sebastian Rivas from Colombia (COL). I am a software developer with 6 mo
 
 - 🌱 I’m currently learning Angular, C#, Typescript, Javascript, HTML and CSS.
 - 📔 Developer Webpage Portfolio: https://s2023.github.io/
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebastian-rivas-agudelo-b88983263/)
+- 📫 How to reach me: sebastian.rivas1991@hotmail.com / [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebastian-rivas-agudelo-b88983263/)
 
 
 
